@@ -1,5 +1,7 @@
 # Content & Communication Pipeline
 
+> **Tech stack:** Make · Creatomate · Python · Facebook, Discord and LinkedIn APIs
+
 Two automation systems I built in 2025 to stop doing repetitive publishing and
 client-coordination work by hand.
 
