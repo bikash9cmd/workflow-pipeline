@@ -86,3 +86,7 @@ at the top of the file.
 Make scenario IDs and webhook secrets are NOT in this repo. See `.env.example`
 for what needs to be set. Don't commit a real `.env`, I already did that once
 and had to rotate every key.
+
+## License
+
+Released under the [MIT License](LICENSE).
